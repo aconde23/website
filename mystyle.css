@@ -1,0 +1,29 @@
+Body{
+	background-color:white;
+	background-image: url("background-orignial.png");
+	font-family: Georgia;
+	font-size:14px;
+	color:black;
+}
+
+h1{
+	font-family: Montserrat;
+	font-size:48px;
+	color: #E3CDA4;
+}
+
+a{
+	color: #723130;
+	text-decoration: none;
+}
+
+img{
+	width:25%;
+	height:auto;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
